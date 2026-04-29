@@ -1,0 +1,27 @@
+# AMJLSF v3.0 — Python Dependencies
+# Install with: pip install -r requirements.txt
+# Note: GPU strongly recommended (CUDA 11.8+). CPU fallback supported.
+
+# ── Core ML ──────────────────────────────────────────────────────────────────
+torch>=2.0.0
+transformers>=4.40.0
+accelerate>=0.27.0
+bitsandbytes>=0.41.0       # 4-bit quantization for local Mistral
+
+# ── Scientific Computing ─────────────────────────────────────────────────────
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+
+# ── Visualization ────────────────────────────────────────────────────────────
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# ── UI ───────────────────────────────────────────────────────────────────────
+gradio>=4.0.0
+
+# ── Networking ───────────────────────────────────────────────────────────────
+requests>=2.31.0
+
+# ── Utilities ────────────────────────────────────────────────────────────────
+# (stdlib: json, csv, hashlib, uuid, time, math, random, threading, io, os)
