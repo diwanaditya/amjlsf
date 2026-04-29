@@ -40,7 +40,7 @@ The framework was developed as part of peer-reviewed research at **Silver Oak Un
 # 5. Enter your API key (or leave blank for local Mistral) and click START AUDIT
 ```
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/AMJLSF/blob/main/AMJLSF_PERFECT.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YVhgXmQD5Or3eCPTMokOqYHBtOnSWfn8?usp=sharing)
 
 ---
 
